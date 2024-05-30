@@ -1,7 +1,7 @@
 {
-  "name": "currency-changer",
+  "name": "currency-translator",
   "version": "1.0.0",
-  "description": "A currency-changer coverts the currencies of different countries",
+  "description": "A currency-translator coverts the currencies of different countries",
   "main": "index.js",
   "type": "module",
   "scripts": {
