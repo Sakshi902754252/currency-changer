@@ -1,4 +1,4 @@
-# currency-changer
+# currency-translator
 A NPM Pacakage which coverts the currencies of different countries. You can install and import in your nodeJS code
 
 
